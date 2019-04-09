@@ -19,7 +19,7 @@ void loop(){
     digitalWrite(relePin,HIGH);
     for(int i = 0; i < tempoLigado; i++){ 
       digitalWrite(ledPin, HIGH);
-      delay(1000); // espera 1 seg
+      delay(1000);
       digitalWrite(ledPin, LOW);
       delay(500);
     }
