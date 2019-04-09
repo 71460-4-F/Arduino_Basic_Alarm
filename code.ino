@@ -1,4 +1,3 @@
-//(Alarme Residencial)
 
 int analogPin = A1;
 int relePin = 8;   
@@ -23,7 +22,7 @@ void loop(){
       delay(1000); // espera 1 seg
       digitalWrite(ledPin, LOW);
       delay(500);
-    } // fim do laço for
+    }
   }
   else
   {
