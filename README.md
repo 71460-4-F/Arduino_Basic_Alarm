@@ -1,4 +1,5 @@
 # Arduino_Basic_Alarm
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/Arduino_Basic_Alarm)](https://badges.pufler.dev)
 
 ## Demo Project
 
